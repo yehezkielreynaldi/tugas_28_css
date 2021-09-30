@@ -1,0 +1,31 @@
+body{
+    background-color: #333333;
+}
+
+
+div{
+    color: white;
+}
+
+
+.text-center{
+    margin-right: 100px;
+    margin-top: 50px;
+}
+
+span{
+    color: #2762ab;
+}
+
+.btn{
+    color: white;
+}
+
+.form-check-label{
+    font-size: 13px;
+}
+
+
+.d-flex{
+    margin-left: 100px;
+}
